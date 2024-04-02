@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ArraysStrings">
+      <UniqueIdentifier>{0c9e1791-fc54-4d0c-b827-2727e29ff7b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TwoPointers">
+      <UniqueIdentifier>{51094949-1125-4c53-ac7f-a3bbba02dd0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SlidingWindow">
+      <UniqueIdentifier>{e1b67370-fbc7-49f1-bde4-f91165bd1d66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrefixSum">
+      <UniqueIdentifier>{be518c80-2deb-4720-9b44-5367e380b6bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HashMap_Set">
+      <UniqueIdentifier>{19fd09f2-578f-4533-88be-cae93bcd238c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stack">
+      <UniqueIdentifier>{88a607a1-4ad3-498c-b2e0-f37b8120f840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Queue">
+      <UniqueIdentifier>{875c973c-70d2-4fca-b7c2-86707ec700f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LinkedList">
+      <UniqueIdentifier>{714e69cd-23d5-4ce4-b0ac-bd4c393ee610}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TreeDFS">
+      <UniqueIdentifier>{769c9683-e4e3-494d-87fc-4c3b50342ac1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TreeBFS">
+      <UniqueIdentifier>{ddd65dca-8183-4088-ae3a-975d95a40311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinarySearchTree">
+      <UniqueIdentifier>{874a0f41-86ef-4ffb-9bca-3247b8be541f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphsDFS">
+      <UniqueIdentifier>{fb16a88f-c24d-4f86-8a74-47f80dfe3827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GraphsBFS">
+      <UniqueIdentifier>{bc8e582e-a6d6-4b22-902d-fcfa01cb60c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Heap_PriorityQueue">
+      <UniqueIdentifier>{3e31cfef-309f-486d-bb77-5b4b60f37178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinarySearch">
+      <UniqueIdentifier>{7415e049-4400-4539-8c89-745bb3326a52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Backtracking">
+      <UniqueIdentifier>{6263a500-5c43-4f10-861c-abb3541b4610}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DP_1D">
+      <UniqueIdentifier>{9684055b-f88b-4d92-8dd9-f9e780f45d04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DP_Multidimensional">
+      <UniqueIdentifier>{aa7d2d69-82a2-4c7f-adbd-07f8e2d5a58f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BitManipulation">
+      <UniqueIdentifier>{c29e6fff-d600-4f75-9bbd-9b89f92a2509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trie">
+      <UniqueIdentifier>{667e3d0f-fe71-48f6-a5f0-db6c6554cd15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Intervals">
+      <UniqueIdentifier>{f2b63598-9160-42c9-99f3-b5358e341702}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MonotonicStack">
+      <UniqueIdentifier>{ee035730-88fe-4238-8376-61c3a36fca21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysStrings\1768MergeStringsAlternately.cpp">
+      <Filter>ArraysStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoPointers\283MoveZeros.cpp">
+      <Filter>TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidingWindow\643MaximumAverageSubArray.cpp">
+      <Filter>SlidingWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefixSum\1732FindTheHighestAltitude.cpp">
+      <Filter>PrefixSum</Filter>
+    </ClCompile>
+    <ClCompile Include="HashMap_Set\2215FindtheDifferenceofTwoArrays.cpp">
+      <Filter>HashMap_Set</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack\2390RemovingStarsFromString.cpp">
+      <Filter>Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue\933NumberOfRecentCalls.cpp">
+      <Filter>Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList\2095DeleteTheMiddleNodeOfLinkedList.cpp">
+      <Filter>LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeDFS\104MaximumDepthOfBinaryTree.cpp">
+      <Filter>TreeDFS</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeBFS\199BinaryTreeRightSideView.cpp">
+      <Filter>TreeBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchTree\700SearchinaBinarySearchTree.cpp">
+      <Filter>BinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphsDFS\841KeysandRooms.cpp">
+      <Filter>GraphsDFS</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphsBFS\1926NearestExitfromEntranceinMaze.cpp">
+      <Filter>GraphsBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap_PriorityQueue\215KthLargestElementInArray.cpp">
+      <Filter>Heap_PriorityQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch\374GuessNumberHigherOrLower.cpp">
+      <Filter>BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="Backtracking\17LetterCombinationOfPhoneNumber.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="DP_1D\1137Tribonacci.cpp">
+      <Filter>DP_1D</Filter>
+    </ClCompile>
+    <ClCompile Include="DP_Multidimensional\62UniquePaths.cpp">
+      <Filter>DP_Multidimensional</Filter>
+    </ClCompile>
+    <ClCompile Include="BitManipulation\338CountingBits.cpp">
+      <Filter>BitManipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Trie\208ImplementTrie.cpp">
+      <Filter>Trie</Filter>
+    </ClCompile>
+    <ClCompile Include="Intervals\435NonOverlappingIntervals.cpp">
+      <Filter>Intervals</Filter>
+    </ClCompile>
+    <ClCompile Include="MonotonicStack\739DailyTemperatures.cpp">
+      <Filter>MonotonicStack</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysStrings\1071GreatestCommonDivider.cpp">
+      <Filter>ArraysStrings</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoPointers\392IsSubsequence.cpp">
+      <Filter>TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidingWindow\1456MaxVowelsInSubstring.cpp">
+      <Filter>SlidingWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefixSum\724FindPivotIndex.cpp">
+      <Filter>PrefixSum</Filter>
+    </ClCompile>
+    <ClCompile Include="HashMap_Set\1207UniqueOcurrences.cpp">
+      <Filter>HashMap_Set</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack\735AsteroidCollision.cpp">
+      <Filter>Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue\649Dota2Senate.cpp">
+      <Filter>Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList\328OddEvenLinkedList.cpp">
+      <Filter>LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeDFS\872LeafSimilarTrees.cpp">
+      <Filter>TreeDFS</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphsBFS\1161MaximumLevelSum.cpp">
+      <Filter>TreeBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchTree\450DeleteNodeInBST.cpp">
+      <Filter>BinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphsDFS\547NumberOfProvinces.cpp">
+      <Filter>GraphsDFS</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphsBFS\994RottingOranges.cpp">
+      <Filter>GraphsBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap_PriorityQueue\2336SmallestNumberInInfSet.cpp">
+      <Filter>Heap_PriorityQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch\2300SuccessfulPairsOfSpellsAndPotions.cpp">
+      <Filter>BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="Backtracking\216CombinationSum3.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="DP_1D\1143LongestCommonSubsequence.cpp">
+      <Filter>DP_Multidimensional</Filter>
+    </ClCompile>
+    <ClCompile Include="DP_1D\198HouseRobber.cpp">
+      <Filter>DP_1D</Filter>
+    </ClCompile>
+    <ClCompile Include="BitManipulation\136SingleNumber.cpp">
+      <Filter>BitManipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Trie\1268SearchSuggestionSystem.cpp">
+      <Filter>Trie</Filter>
+    </ClCompile>
+    <ClCompile Include="Intervals\452MinimumArrowsToBurstBalloons.cpp">
+      <Filter>Intervals</Filter>
+    </ClCompile>
+    <ClCompile Include="MonotonicStack\901DailyStockPlan.cpp">
+      <Filter>MonotonicStack</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Solution.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
